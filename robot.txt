@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keuangan.temanggungkab.go.id/css/-/slot-gacor/sitemap.xml
